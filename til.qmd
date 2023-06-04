@@ -1,0 +1,23 @@
+---
+title: "Today I Learned"
+subtitle: "A collection of things I've learned or practiced and want to remember"
+description: "This is a collection of my thoughts, experiences, and insights on a variety of topics. It serves as a personal record of my learning journey and allows me to reflect on what I have learned and practiced. It is a place for me to document my progress and share my knowledge with others who may be interested in similar topics. Through writing, I hope to better understand and remember the things I have learned, and to inspire others to pursue their own learning and growth."
+listing:
+  contents: til
+  type: table
+  sort-ui: false
+  filter-ui: false
+  sort: "date desc"
+  fields: [image, title, date]
+format: 
+  html:
+    page-layout: full
+categories:   
+  - Pytorch 
+  - Python
+  - R
+  - books
+  - machine learning
+  - data science
+  - Deep Learning
+---

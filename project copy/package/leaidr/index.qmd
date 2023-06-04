@@ -1,0 +1,8 @@
+---
+title: "leaidr"
+description: "An R package for U.S. school district shapefiles."
+image: logo.png
+---
+
+![](logo.png){fig-alt="leaidr hex with a black and white image of the US districts on a white background"}
+

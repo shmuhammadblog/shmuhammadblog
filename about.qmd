@@ -1,0 +1,22 @@
+---
+title: "About"
+subtitle: ""
+feed: true
+sidebar: false
+about:
+  template: jolla
+  image-shape: rectangle
+  image: my_pic.jpg
+  links:
+    - icon: twitter
+      href: https://twitter.com/Shmuhammadd
+    - icon: linkedin
+      href: https://www.linkedin.com/in/shmuhammad/
+    - icon: github
+      href: https://github.com/shmuhammad2004
+---
+
+I am a PhD student at the University of Porto, Portugal. I am interested in low-resource natural language processing (NLP). I write stuff related to NLP and data science. You can reach out to me via shamsuddeen2004@gmail.com.
+
+
+

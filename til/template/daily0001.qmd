@@ -1,0 +1,36 @@
+---
+title: "labelled vs labeled"
+date: '2022-05-13'
+image: aca_02.jpeg
+output: html_document
+draft : true
+---
+
+## Labelled vs labelled
+
+I often forget which one to use between labeled and labelled.
+
+Labeled is an American spelling while labelled is British spelling.
+
+I use labelled since I write in British English.
+
+
+## Focus vs focused
+
+There is a rule in the English language called the doubling up rule. Basically, if you add a vowel suffix to the end of a word, you typically want to double up the final letter to allow room for it. 
+
+The official requirements are that we ‘double a single consonant letter at the end of any base where the preceding vowel is spelled with a single letter and stressed’. For example: (bar, barring, barred), (beg, begging, begged), (occur, occurring, occurred). 
+
+However, no doubling when the preceding vowel is unstressed. For example: panic becomes panicking, traffic becomes trafficking, 
+
+Now is focus or focussing?
+
+> This word can take either double or single s, with the single option being highly preferred.
+
+focusing/focussing	and focused/focussed are all correct. !
+
+
+<style>
+body {
+text-align: justify}
+</style>

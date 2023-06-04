@@ -1,0 +1,11 @@
+{
+  "hash": "730d45b70ef52886a33655a466026173",
+  "result": {
+    "markdown": "---\ntitle: \"Fatal: Not possible to fast-forward, aborting\"\ndate: '2022-09-17'\noutput: html_document\n---\n\n## Why this problem?\n\nThis happens is your branch is no longer directly based off of the branch you're trying to merge it into - e.g. another commit was added to the destination branch that isn't in your branch. Thus, you can't fast-forward into it (because fast-forward requires your branch to completely contain the destination branch).\n\n\nSolution that works for me is from [StackOverflow](https://stackoverflow.com/questions/13106179/fatal-not-possible-to-fast-forward-aborting)\n\n\n\n```{bash}\ngit pull --rebase\n\n```\n\n\n\n<style>\nbody {\ntext-align: justify}\n</style>\n\n",
+    "supporting": [
+      "daily0001_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

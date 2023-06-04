@@ -1,0 +1,24 @@
+---
+title: "Fatal: Not possible to fast-forward, aborting"
+date: '2022-09-17'
+output: html_document
+---
+
+## Why this problem?
+
+This happens is your branch is no longer directly based off of the branch you're trying to merge it into - e.g. another commit was added to the destination branch that isn't in your branch. Thus, you can't fast-forward into it (because fast-forward requires your branch to completely contain the destination branch).
+
+
+Solution that works for me is from [StackOverflow](https://stackoverflow.com/questions/13106179/fatal-not-possible-to-fast-forward-aborting)
+
+
+```{bash}
+git pull --rebase
+
+```
+
+
+<style>
+body {
+text-align: justify}
+</style>

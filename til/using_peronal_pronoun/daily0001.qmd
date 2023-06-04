@@ -1,0 +1,25 @@
+---
+title: "It is ok to use personal pronoun in scientific writing?"
+date: '2022-05-13'
+image: aca_02.jpeg
+output: html_document
+draft : true    
+---
+
+## Personal Pronoun
+
+Personal Pronodun usage :
+
+https://www.quora.com/Is-it-okay-to-use-we-in-scientific-writing
+https://eloquentscience.com/2011/02/are-first-person-pronouns-acceptable-in-scientific-writing/
+
+https://blog.wordvice.com/first-person-pronouns-in-research-paper/
+
+https://www.google.com/search?q=our+in+scientific+writing&oq=Our+in+scientific+writt&aqs=chrome.1.69i57j33i10i160j33i22i29i30l2.13399j1j1&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCggCECEYFhgdGB4yCggDECEYFhgdGB7SAQkxMzM5OWoxajGoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+
+
+<style>
+body {
+text-align: justify}
+</style>

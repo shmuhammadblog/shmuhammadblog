@@ -1,0 +1,14 @@
+---
+title: "Today I Learned"
+listing:
+  contents: til
+  type: table
+  sort-ui: false
+  filter-ui: false
+  sort: "date desc"
+  fields: [image, title, date]
+format: 
+  html:
+    page-layout: full
+freeze: true
+---

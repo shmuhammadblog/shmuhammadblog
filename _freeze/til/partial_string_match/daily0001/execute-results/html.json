@@ -1,0 +1,14 @@
+{
+  "hash": "1c0892a6c3d43475c55a7a6cd8526a3e",
+  "result": {
+    "markdown": "---\ntitle: \"Partial String Matching\"\ndate: '2022-05-13'\nimage: aca_02.jpeg\noutput: html_document\ndraft : true\n---\n\n\n## Partial String Matching\n\nSo, I want to do string partial matching in a dataframe. The first image shows a dataframe with two columns and two rows. Both the  columns contains text with partial matching in another one. So, I want create a dataframe where the partial match are arrange in the same row. \n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n\n```{}\n\ndf <- data.frame (first_column  = c(\"The dog is missing\", \"We found it\"),\n                  second_column = c(\"we found the cat\", \"The dog  missing\")                  )\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

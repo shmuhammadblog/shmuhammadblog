@@ -1,0 +1,60 @@
+# NLP Notes
+
+These are collections of stuff related to NLP that I came across and 
+
+### Tools
+
+1.[DocNow](https://www.docnow.io): Is a tool for appraising, collecting, and gathering consent for Twitter content. 
+
+2. [Twarc](https://twarc-project.readthedocs.io/en/latest/): Twarc is a command line tool and Python library for collecting tweet data from Twitter's official API. It is designed for reliably collecting historical as well as realtime data, and can be used as a software library in your own tools and applications.
+
+3. [Hydrator](https://github.com/DocNow/hydrator/releases) is a desktop application for turning Tweet ID datasets back into tweet data to use in your research. It has been designed to be a reliable option for researchers who want to use their workstation for long running hydration jobs.
+
+4. [The Catalog](https://catalog.docnow.io) is a community-sourced clearinghouse for tweet identifier datasets. Sharing tweet ids is a practice that is encouraged by Twitter as a way to share research data without negatively affecting users ability to have their data deleted or hidden from the web. We welcome your contributions!
+
+
+
+
+
+### Github Repos
+
+1. [Awesome-NLP](https://github.com/keon/awesome-nlp)
+2. [Deep Learning for NLP](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+3. [PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial) 
+4. [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+
+
+### Books
+
+1. [Natural Language Processing with Transformer](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246/ref=pd_sbs_sccl_1_1/144-6615835-8376765?pd_rd_w=SZQHB&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=M55G98JS2G7BQXY1RNRB&pd_rd_wg=ho0LC&pd_rd_r=9413ac42-514f-4af5-8451-a055378f4e2c&pd_rd_i=1098103246&psc=1)
+
+2. [Transformers for Machine Learning: A Deep Dive](https://www.amazon.com/Transformers-Machine-Learning-Chapman-Recognition/dp/0367771659#customerReviews)
+
+3. [Deep Learning for NLP and Speech Recognition](https://www.amazon.com/Deep-Learning-NLP-Speech-Recognition/dp/3030145980/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
+
+## Courses
+
+1. Multilingual Natural Language Processing - http://demo.clab.cs.cmu.edu/11737fa20/
+
+2. CSE 704 - Applied Natural Language Processing and Computational Social Science - https://kennyjoseph.github.io/cse702
+
+3. NLP Course | For You by Lena Voita - https://lena-voita.github.io/nlp_course.html
+
+
+4. David Bamman's Course on Applied NLP - https://github.com/dbamman/anlp19 - Course Page
+
+5. CMU NLP - http://phontron.com/class/nn4nlp2017/schedule.html
+
+6. Oxford Deep Learning NLP - https://github.com/oxford-cs-deepnlp-2017/lectures
+
+7. Probabilistic NLP course - https://uva-slpl.github.io/nlp2/syllabus.html
+
+8.  Machine Learning: Linguistic & Sequence Modeling - https://seq2class.github.io/
+
+9. Introduction to Natural Language Processing by Jacob Eisenstein - https://github.com/jacobeisenstein/gt-nlp-class
+
+10. A Course on word embeddings, variants, and applications: http://people.ds.cam.ac.uk/iv250/esslli2018.html
+
+
+

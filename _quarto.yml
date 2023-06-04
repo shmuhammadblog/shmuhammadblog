@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "_redirects.txt"
+freeze: true
+
+website:
+  comments:
+    giscus:
+      repo: "shmuhammad2004/shmuhammadblog"
+      repo-id: "R_kgDOHb5q2A"
+      category: "Announcements"
+      category-id: "DIC_kwDOHb5q2M4CPbHo"
+      mapping: "pathname"
+      reactions-enabled	: true
+      input-position: "top" 
+      theme: "light"
+      language: "en"
+  google-analytics: "UA-124900795-1"
+  title: "Shamsuddeen Hassan Muhammad's Blog"
+  site-url: https://shmuhammadblog.github.io
+  description: "Shamsuddeen Muhammad Blog"
+  twitter-card:
+     site : "@shmuhammadd"
+     creator : "Shamsuddeen Hassan Muhammad"
+  navbar:
+    title: "Shamsuddeen Hassan Muhammad"
+    background: "#000000"
+    foreground: "#FFFFFF"
+    pinned: true
+    left:
+      - text: "NLP Researcher and Data Scientist"
+    right:
+      - text: "Blog"
+        file: index.qmd
+      - file: til.qmd
+      - text: "About"
+        file: about.qmd
+      - icon: twitter
+        href: https://twitter.com/Shmuhammadd
+      - icon: github
+        href: https://github.com/shmuhammad2004
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shmuhammad/
+      - icon: rss
+        href: index.xml
+  page-footer:
+    left: 
+      - href: license.qmd
+        text: License
+format:
+  html:
+    theme: [litera, styles.scss]
+    include-in-header: plausible.html
+    highlight-style: nord
+
+

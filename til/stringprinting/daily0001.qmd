@@ -1,0 +1,29 @@
+---
+title: " Formatting number with an underscore in Python"
+date: '2022-10-15'
+image: python.jpeg
+output: html_document
+---
+Today I learn printing numbers with an underscore in Python.
+
+In Python, you can format a large number with an underscore to make it more readable. For example, the following example shows the format of a number with an underscore:
+
+```{python}
+temp = 1_000_00
+print(temp)
+```
+
+But, printing a number with an underscore gives the number without the underscore. If you want to print a number with an underscore, you can use the following syntax:
+
+```{python}
+print(f'{temp:_}')
+print(f'{temp:,}')
+
+```
+
+See you tomorrow!
+
+<style>
+body {
+text-align: justify}
+</style>

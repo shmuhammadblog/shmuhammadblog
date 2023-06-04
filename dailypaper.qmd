@@ -1,0 +1,14 @@
+---
+title: "Daily paper summary"
+listing:
+  contents: dailypaper
+  type: table
+  sort-ui: false
+  filter-ui: false
+  sort: "date desc"
+  fields: [image, title, date]
+format: 
+  html:
+    page-layout: full
+freeze: true
+---

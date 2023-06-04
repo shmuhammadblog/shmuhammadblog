@@ -1,0 +1,23 @@
+---
+title: "Partial String Matching"
+date: '2022-05-13'
+image: aca_02.jpeg
+output: html_document
+draft : true
+---
+
+## Partial String Matching
+
+So, I want to do string partial matching in a dataframe. The first image shows a dataframe with two columns and two rows. Both the  columns contains text with partial matching in another one. So, I want create a dataframe where the partial match are arrange in the same row. 
+
+
+```{r}
+1+1
+```
+
+
+```{}
+
+df <- data.frame (first_column  = c("The dog is missing", "We found it"),
+                  second_column = c("we found the cat", "The dog  missing")                  )
+```

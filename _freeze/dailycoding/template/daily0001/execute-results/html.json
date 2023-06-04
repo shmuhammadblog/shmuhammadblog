@@ -1,0 +1,11 @@
+{
+  "hash": "5da418e2fb47df13737c9ee2361ddeea",
+  "result": {
+    "markdown": "---\ntitle: \"labelled vs labeled\"\ndate: '2022-05-13'\nimage: aca_02.jpeg\noutput: html_document\ndraft : true\n---\n\n## parse_ranges\n\nI'd like you to write a function called parse_ranges, which accepts a string containing ranges of numbers and returns an iterable of those numbers.\n\nThe numeric ranges in the string will consist of two numbers separated by hyphens and each of the ranges will be separated by commas and any number of spaces.\n\nYour function should work like this:\n\n\n```{raw}\nparse_ranges('1-2,4-4,8-13')\n[1, 2, 4, 8, 9, 10, 11, 12, 13]\n\nparse_ranges('0-0, 4-8, 20-20, 43-45')\n[0, 4, 5, 6, 7, 8, 20, 43, 44, 45]\n\n\n```\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n2\n```\n:::\n:::\n\n\n<style>\nbody {\ntext-align: justify}\n</style>\n\n",
+    "supporting": [
+      "daily0001_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,7 @@
+
+# Data Science Resources
+
+
+## Books
+
+1. [DevOps for Data Science](https://do4ds.com)

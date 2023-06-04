@@ -1,0 +1,14 @@
+{
+  "hash": "00e56678c1149c8301fbe21cbbe9ebc7",
+  "result": {
+    "markdown": "---\ntitle: \"R4DS Chapter 2 Exercises\"\ndate: '2022-10-15'\noutput: html_document\n---\n\n\n## 2.2.4 Exercises\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.3.6      ✔ purrr   0.3.5 \n✔ tibble  3.1.8      ✔ dplyr   1.0.10\n✔ tidyr   1.2.1      ✔ stringr 1.4.1 \n✔ readr   2.1.3      ✔ forcats 0.5.2 \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n```\n:::\n\n```{.r .cell-code}\nlibrary(tidytuesdayR)\ntheme_set(theme_light())\nlibrary(scales)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n\nAttaching package: 'scales'\n\nThe following object is masked from 'package:purrr':\n\n    discard\n\nThe following object is masked from 'package:readr':\n\n    col_factor\n```\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\ntt <- tt_load(\"2021-02-02\")\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n--- Compiling #TidyTuesday Information for 2021-02-02 ----\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n--- There are 8 files available ---\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n--- Starting Download ---\n```\n:::\n\n::: {.cell-output .cell-output-stdout}\n```\n\n\tDownloading file 1 of 8: `bach_students.csv`\n\tDownloading file 2 of 8: `female_bach_students.csv`\n\tDownloading file 3 of 8: `female_hs_students.csv`\n\tDownloading file 4 of 8: `hbcu_all.csv`\n\tDownloading file 5 of 8: `hbcu_black.csv`\n\tDownloading file 6 of 8: `hs_students.csv`\n\tDownloading file 7 of 8: `male_bach_students.csv`\n\tDownloading file 8 of 8: `male_hs_students.csv`\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n--- Download complete ---\n```\n:::\n:::\n\n\n\n<style>\nbody {\ntext-align: justify}\n</style>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

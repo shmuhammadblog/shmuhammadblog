@@ -1,0 +1,11 @@
+{
+  "hash": "ca785e7097be872e8abc50642bac0134",
+  "result": {
+    "markdown": "---\ntitle: \" Formatting number with an underscore in Python\"\ndate: '2022-05-10'\nimage: python.jpeg\noutput: html_document\n---\n\nToday I learn printing numbers with an underscore in Python.\n\nIn Python, you can format a large number with an underscore to make it more readable. For example, the following example shows the format of a number with an underscore:\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\ntemp = 1_000_00\nprint(temp)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n100000\n```\n:::\n:::\n\n\nBut, printing a number with an underscore gives the number without the underscore. If you want to print a number with an underscore, you can use the following syntax:\n\n::: {.cell execution_count=2}\n``` {.python .cell-code}\nprint(f'{temp:_}')\nprint(f'{temp:,}')\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n100_000\n100,000\n```\n:::\n:::\n\n\nSee you tomorrow!\n\n<style>\nbody {\ntext-align: justify}\n</style>\n\n",
+    "supporting": [
+      "daily0001_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,17 @@
+---
+title: "Deep Work"
+date: '2022-10-15'
+image: aca_02.jpeg
+output: html_document
+---
+
+## Deep Work
+
+I am currently reading Deep Work book by Cal NewPort
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fembraceourcalling.com%2Fcal-newports-deep-work-rules-for-focused-success-in-a-distracted-world%2F&psig=AOvVaw2Nx6YBxTTRqKsxOGtgYQ5b&ust=1665903776682000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMifvqrV4foCFQAAAAAdAAAAABAD)
+
+<style>
+body {
+text-align: justify}
+</style>
