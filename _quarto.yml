@@ -34,6 +34,8 @@ website:
     right:
       - text: "Blog"
         file: index.qmd
+      - text: "Today I Learned"
+      - file: til.qmd
       - text: "About"
         file: about.qmd
       - icon: twitter
