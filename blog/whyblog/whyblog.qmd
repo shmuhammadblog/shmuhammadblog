@@ -1,4 +1,4 @@
-4d---
+---
 title: "Why you should start a blog?"
 format:
   html:

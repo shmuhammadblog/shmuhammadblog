@@ -11,11 +11,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/blog/whyblog/whyblog.html",
       "/blog/python_pathlib/pathlib.html",
       "/blog/tensor/tensor.html",
       "/blog/obtaining data/obtaininda.html",
-      "/blog/movingfilestodocker/movinfiles.html"
+      "/blog/movingfilestodocker/movinfiles.html",
+      "/blog/whyblog/whyblog.html"
     ]
   },
   {
