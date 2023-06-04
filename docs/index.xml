@@ -9,7 +9,7 @@
 <link>https://shmuhammadblog.github.io/index.html</link>
 <atom:link href="https://shmuhammadblog.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Shamsuddeen Muhammad Blog</description>
-<generator>quarto-99.9.9</generator>
+<generator>quarto-1.4.122</generator>
 <lastBuildDate>Sun, 18 Dec 2022 00:00:00 GMT</lastBuildDate>
 <item>
   <title>PathLib: Yet Another Python file and directory managament</title>
@@ -1954,12 +1954,15 @@ font-style: inherit;">]</span></span>
   <media:content url="https://shmuhammadblog.github.io/blog/movingfilestodocker/docker.png" medium="image" type="image/png" height="124" width="144"/>
 </item>
 <item>
-  <title>Why you should start a blog?</title>
+  <title></title>
   <link>https://shmuhammadblog.github.io/blog/whyblog/whyblog.html</link>
   <description><![CDATA[ 
 
 
 
+<p>4d— title: “Why you should start a blog?” format: html: code-fold: true image: featured.jpg date: “2022-05-31” categories:<br>
+- Books description: “Welcome to my Quarto Blog”</p>
+<hr>
 <blockquote class="blockquote">
 <p>My mentor, <a href="https://ruder.io">Sebastian Ruder</a> advises PhD students to write blogs and has this to say: “Having a blog is the single thing that has led to the most positive interactions throughout my PhD.”<sup>1</sup></p>
 </blockquote>
@@ -2024,10 +2027,8 @@ text-align: justify}
 </aside>
 
  ]]></description>
-  <category>Books</category>
   <guid>https://shmuhammadblog.github.io/blog/whyblog/whyblog.html</guid>
-  <pubDate>Mon, 30 May 2022 23:00:00 GMT</pubDate>
-  <media:content url="https://shmuhammadblog.github.io/blog/whyblog/featured.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Sun, 04 Jun 2023 19:32:41 GMT</pubDate>
 </item>
 </channel>
 </rss>
